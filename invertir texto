@@ -1,0 +1,3 @@
+text= input ("ingresa la palabra: ")
+text_invertido =''.join(reversed(text))
+print (text_invertido)
