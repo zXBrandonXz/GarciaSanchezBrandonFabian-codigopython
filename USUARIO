@@ -1,0 +1,6 @@
+Nombre = input(" Ingrese su usuario ")
+Telefono = input(" Ingrese su telefono ")
+Correo = input (" Ingrese su correo electronico ")
+
+var = "Bienvenido '{}' Tu telefono es: '{}' Tu correo es: '{}'".format(Nombre,Telefono,Correo)
+print(var)
