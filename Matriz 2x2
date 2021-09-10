@@ -1,0 +1,3 @@
+linea1 =[2, 4]
+linea2 =[5, 7]
+linea1[0]*linea2[1]-linea2[0]*linea1[1]
