@@ -1,0 +1,8 @@
+var1 = input("Ingresa un numero")
+var1 = int(var1)
+if var1 > 0:
+    print("Es numero positivo")
+elif var1 < 0:
+    print("Es numero negativo")
+else:
+    print("El nuemro es 0")
